@@ -1,0 +1,17 @@
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\bin\Debug\net7.0\producer.exe
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\bin\Debug\net7.0\producer.deps.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\bin\Debug\net7.0\producer.runtimeconfig.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\bin\Debug\net7.0\producer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\bin\Debug\net7.0\producer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.csproj.AssemblyReference.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.AssemblyInfoInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.AssemblyInfo.cs
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.csproj.CoreCompileInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.csproj.CopyComplete
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\refint\producer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\producer.genruntimeconfig.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_C#\producer\obj\Debug\net7.0\ref\producer.dll
