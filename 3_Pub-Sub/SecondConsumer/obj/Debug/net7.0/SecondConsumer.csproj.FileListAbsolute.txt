@@ -1,0 +1,17 @@
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\bin\Debug\net7.0\SecondConsumer.exe
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\bin\Debug\net7.0\SecondConsumer.deps.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\bin\Debug\net7.0\SecondConsumer.runtimeconfig.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\bin\Debug\net7.0\SecondConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\bin\Debug\net7.0\SecondConsumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.csproj.AssemblyReference.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.AssemblyInfoInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.AssemblyInfo.cs
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.csproj.CoreCompileInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.csproj.CopyComplete
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\refint\SecondConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\SecondConsumer.genruntimeconfig.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\SecondConsumer\obj\Debug\net7.0\ref\SecondConsumer.dll

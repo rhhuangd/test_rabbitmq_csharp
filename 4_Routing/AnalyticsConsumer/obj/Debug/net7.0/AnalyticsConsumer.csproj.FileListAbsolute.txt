@@ -1,0 +1,17 @@
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.exe
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.deps.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.runtimeconfig.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\bin\Debug\net7.0\AnalyticsConsumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.csproj.AssemblyReference.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.AssemblyInfoInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.AssemblyInfo.cs
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.csproj.CoreCompileInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.csproj.CopyComplete
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\refint\AnalyticsConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\AnalyticsConsumer.genruntimeconfig.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\AnalyticsConsumer\obj\Debug\net7.0\ref\AnalyticsConsumer.dll

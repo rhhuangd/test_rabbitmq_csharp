@@ -1,0 +1,17 @@
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\bin\Debug\net7.0\Consumer.exe
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\bin\Debug\net7.0\Consumer.deps.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\bin\Debug\net7.0\Consumer.runtimeconfig.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\bin\Debug\net7.0\Consumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\bin\Debug\net7.0\Consumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.csproj.AssemblyReference.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.AssemblyInfoInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.AssemblyInfo.cs
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.csproj.CoreCompileInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.csproj.CopyComplete
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\refint\Consumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\Consumer.genruntimeconfig.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\3_Pub-Sub\FirstConsumer\obj\Debug\net7.0\ref\Consumer.dll

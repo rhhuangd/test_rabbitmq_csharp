@@ -1,0 +1,17 @@
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.csproj.AssemblyReference.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.AssemblyInfoInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.AssemblyInfo.cs
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.csproj.CoreCompileInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\bin\Debug\net7.0\UsersConsumer.exe
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\bin\Debug\net7.0\UsersConsumer.deps.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\bin\Debug\net7.0\UsersConsumer.runtimeconfig.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\bin\Debug\net7.0\UsersConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\bin\Debug\net7.0\UsersConsumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.csproj.CopyComplete
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\refint\UsersConsumer.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\UsersConsumer.genruntimeconfig.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\4_Routing\UsersConsumer\obj\Debug\net7.0\ref\UsersConsumer.dll
