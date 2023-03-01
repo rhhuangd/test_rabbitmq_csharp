@@ -1,0 +1,17 @@
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\bin\Debug\net7.0\Client.exe
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\bin\Debug\net7.0\Client.deps.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\bin\Debug\net7.0\Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\bin\Debug\net7.0\Client.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\bin\Debug\net7.0\RabbitMQ.Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.csproj.CopyComplete
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\refint\Client.dll
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.pdb
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+E:\_rhhuangd\Test_RabbitMQ\Test_RabbitMQ_CSharp\5_Request-Reply\Client\obj\Debug\net7.0\ref\Client.dll
